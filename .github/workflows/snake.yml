@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -14,10 +14,19 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
 
     steps:
-      - name: Generate snake SVGs
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub analytics and contribution activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: python .github/scripts/generate_profile_assets.py
+
+      - name: Generate contribution snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -25,7 +34,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish to output branch
+      - name: Publish profile assets to output branch
         uses: crazy-max/ghaction-github-pages@v4.2.0
         with:
           build_dir: dist
