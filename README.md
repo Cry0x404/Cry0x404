@@ -1,16 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e1b4b,50:5b21b6,100:4f46e5&text=%C3%87%C4%B1nar%20%7C%20Cry0x404&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Product%20Engineering&descAlignY=60&animation=fadeIn&section=header" alt="Cry0x404 header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e1b4b,50:5b21b6,100:4f46e5&text=%C3%87%C4%B1nar%20%7C%20Cry0x404&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20Builder%20%E2%80%A2%20Software%20Projects%20%E2%80%A2%20Local%20AI&descAlignY=60&animation=fadeIn&section=header" alt="Cry0x404 header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=A78BFA&center=true&vCenter=true&width=900&lines=Software+Engineering+%E2%80%A2+AI%2FML;Full-Stack+Product+Engineering;Performance+%2B+Systems+Thinking;Building+useful+things%2C+end+to+end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI+projects+and+tools;Training+and+testing+local+AI+models;Python+%E2%80%A2+JavaScript+%E2%80%A2+C%2B%2B+%E2%80%A2+C;Turning+ideas+into+working+projects)](https://git.io/typing-svg)
 
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Self--Directed-6D28D9?style=flat-square&logo=github&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-Active%20R%26D-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![Independent Developer](https://img.shields.io/badge/Independent-Developer-6D28D9?style=flat-square&logo=github&logoColor=white)
+![AI Builder](https://img.shields.io/badge/AI-Builder-7C3AED?style=flat-square&logo=openai&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-T%C3%BCrkiye-4F46E5?style=flat-square&logo=googlemaps&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Cry0x404?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turku_62@hotmail.com)
+[![Projects](https://img.shields.io/badge/Projects-GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cry0x404?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cinarguney735@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Cry0x404-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cry0x404)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Cry0x404&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
@@ -23,11 +22,11 @@
 
 ## About
 
-I build software with an engineering-first mindset: clear architecture, measurable performance, maintainable systems, and products that work end to end. My focus spans **software engineering, AI/ML, full-stack development, local AI systems, developer tooling, and performance-sensitive product engineering**.
+I build and experiment with **AI models, local AI tools, web applications, real-time 3D projects, voice systems, and small learning systems**. Most of my work is hands-on: I start with an idea, build a working version, test it, find what is broken or slow, and keep improving it.
 
-I enjoy taking an idea from prototype to a usable system — designing the interface, shaping the backend, integrating models and services, profiling bottlenecks, and tightening the final developer/user experience.
+My current focus is especially on **training and fine-tuning AI models**, running models locally, building usable interfaces around AI, and learning more about performance and systems along the way.
 
-**Open to:** open-source collaboration, technically ambitious side projects, AI/ML engineering work, product engineering challenges, performance optimization, and developer tooling.
+**Open to:** open-source projects, AI experiments, interesting software ideas, and collaborations where I can build and learn.
 
 ---
 
@@ -36,19 +35,19 @@ I enjoy taking an idea from prototype to a usable system — designing the inter
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cs,cpp,c,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c" alt="Python JavaScript C++ C" />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,threejs,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,vite,threejs,html,css" alt="Frontend tools" />
 </p>
 
-### Backend & Databases
+### Backend & Runtime
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,postgres,sqlite,redis" alt="Backend and databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" alt="Backend tools" />
 </p>
 
 ### Cloud, DevOps & Tooling
@@ -61,75 +60,135 @@ I enjoy taking an idea from prototype to a usable system — designing the inter
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Experience | Details |
 |---|---|---|
-| LLM inference & local AI | Advanced hands-on | Quantization-aware inference, GGUF runtimes, VRAM/RAM tradeoffs, latency tuning, local deployment workflows |
-| Fine-tuning & evaluation | Active R&D | Dataset design, SFT workflows, benchmark-driven iteration, regression awareness, model behavior evaluation |
-| Multimodal systems | Hands-on | Image editing/generation workflows, video model experimentation, speech/voice pipelines, model integration |
-| AI product engineering | Advanced hands-on | Model orchestration, job queues, UI integration, failure handling, observability-minded product flows |
-| Performance engineering | Strong focus | Profiling, caching, batching, asynchronous work, memory-aware design, consumer-hardware optimization |
+| Local LLMs | Hands-on | Running quantized models locally, testing GGUF builds, balancing speed, memory use, and quality |
+| Fine-tuning | Hands-on / learning | Custom training experiments, SFT datasets, checkpoint testing, benchmark-driven iteration |
+| Small language models | Built projects | Trained a custom Turkish-focused chat model experiment and iterated on dataset/training settings |
+| Multimodal AI | Project experience | Image editing, image generation, video generation, and voice-cloning workflows |
+| AI applications | Built projects | Model selection, job handling, upload flows, local inference, and web interfaces around AI systems |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>Local AI Runtime & Fine-Tuning Lab</b></summary>
+<summary><b>Cryox AI Platform</b></summary>
 
 <br />
 
-A practical R&D track for running, evaluating, and improving language and multimodal models on consumer hardware without treating performance as an afterthought.
+A personal AI application project built around multiple model workflows and a web interface. I have iterated on model selection, image-edit flows, job handling, local/provider-backed generation, and usability.
 
 | Area | Details |
 |---|---|
-| **Stack** | Python, local inference runtimes, quantized model formats, evaluation tooling |
-| **Scale** | Desktop/local workloads with constrained VRAM and RAM budgets |
-| **Performance** | Quantization-aware execution, staged loading, memory-conscious configuration, throughput/quality balancing |
-| **Security** | Local-first execution where possible; secrets and credentials kept outside source code |
-| **Impact** | Faster iteration on local AI ideas without requiring datacenter-class hardware |
-| **Repository** | [Browse public repositories](https://github.com/Cry0x404?tab=repositories) |
+| **Stack** | JavaScript, Node.js, Vite, web UI tooling |
+| **Scale** | Personal AI application / local development |
+| **Performance** | Job handling, dependency fixes, model/runtime tuning |
+| **Security** | Credentials kept outside public source and provider sessions handled separately |
+| **Impact** | One interface for experimenting with multiple AI workflows |
+| **Repository** | Private / local project |
 
-**Engineering focus:** keep quality high while making models practical on real hardware, then validate changes through repeatable tests rather than intuition alone.
+**What I worked on:** model integration, UI behavior, image upload/edit flows, runtime debugging, and keeping the application usable while changing underlying models.
 
 </details>
 
 <details>
-<summary><b>AI Media & Creative Tooling</b></summary>
+<summary><b>Custom Turkish Chat Model</b></summary>
 
 <br />
 
-Experiments and product workflows around image, video, and voice systems, with emphasis on reliable pipelines and useful controls instead of one-off demos.
+A small Turkish-only chat-model training experiment focused on natural conversation, typo tolerance, short casual messages, and lightweight local inference.
 
 | Area | Details |
 |---|---|
-| **Stack** | Python, Node.js, web UI tooling, multimodal model runtimes |
-| **Scale** | Single-user and local workstation workflows |
-| **Performance** | Queue-based execution, resource-aware settings, model/runtime optimization |
-| **Security** | Local asset handling, explicit boundaries around user files and provider credentials |
-| **Impact** | Turns raw model capabilities into repeatable creative workflows |
-| **Repository** | [Browse public repositories](https://github.com/Cry0x404?tab=repositories) |
+| **Stack** | Python, PyTorch-style training workflows, custom datasets |
+| **Scale** | Small custom language-model experiment (~15M parameters) |
+| **Performance** | Designed for lightweight local execution and fast iteration |
+| **Security** | Local training workflow |
+| **Impact** | Practical experience building, training, testing, and retraining a language model |
+| **Repository** | Private / local project |
 
-**Engineering focus:** preserve controllability, minimize unintended changes, and wrap model behavior in interfaces that make experimentation faster and more predictable.
+**What I worked on:** Turkish chat data, conversational behavior, training runs, model quality problems, dataset scaling, and repeated retraining attempts.
 
 </details>
 
 <details>
-<summary><b>Real-Time 3D & Multiplayer Experiments</b></summary>
+<summary><b>Local LLM Fine-Tuning & Benchmark Lab</b></summary>
 
 <br />
 
-Browser-based 3D experiments focused on vehicle interaction, physics, networking, camera systems, graphics quality, and low-end performance modes.
+A longer-running project for experimenting with fine-tuning and evaluating small-to-medium language models on consumer hardware.
 
 | Area | Details |
 |---|---|
-| **Stack** | JavaScript/TypeScript, Three.js, real-time physics, browser networking |
-| **Scale** | Interactive browser scenes and lightweight multiplayer prototypes |
-| **Performance** | LOD strategy, graphics-quality controls, physics tuning, render-cost reduction |
-| **Security** | Server-authoritative considerations, safe spawning, controlled public exposure |
-| **Impact** | Combines systems thinking, UX, networking, rendering, and performance work in one product surface |
-| **Repository** | [Browse public repositories](https://github.com/Cry0x404?tab=repositories) |
+| **Stack** | Python, local model runtimes, quantized formats, training/evaluation scripts |
+| **Scale** | Local model experiments including 2B-class models |
+| **Performance** | VRAM-aware settings, quantization experiments, quality-vs-speed tuning |
+| **Security** | Local-first workflows |
+| **Impact** | Practical experience with model training, evaluation, regressions, and inference constraints |
+| **Repository** | Private / local R&D |
 
-**Engineering focus:** make complex browser experiences feel responsive while keeping the architecture understandable and iteration-friendly.
+**What I worked on:** code/math/reasoning datasets, instruction-following data, benchmark tracking, no-regression goals, local inference, and model quality experiments.
+
+</details>
+
+<details>
+<summary><b>Alder Ridge Trail — 3D Vehicle Demo</b></summary>
+
+<br />
+
+A browser-based vehicle project with third-person driving, physics, terrain, graphics settings, and multiplayer experiments.
+
+| Area | Details |
+|---|---|
+| **Stack** | JavaScript, Three.js, browser physics, networking |
+| **Scale** | Interactive browser 3D prototype |
+| **Performance** | Potato mode, graphics controls, physics tuning, render optimization |
+| **Security** | Safe spawn logic and controlled multiplayer server exposure |
+| **Impact** | Combined rendering, physics, networking, UI, and performance work in one project |
+| **Repository** | Private / local project |
+
+**What I worked on:** vehicle physics, chase camera, terrain, trees, lighting, dust/mud effects, multiplayer positions, safe spawning, and low-end performance modes.
+
+</details>
+
+<details>
+<summary><b>Çınar Voice Studio</b></summary>
+
+<br />
+
+A voice-cloning prototype that analyzes a reference audio/video sample and generates Turkish speech using the learned voice characteristics.
+
+| Area | Details |
+|---|---|
+| **Stack** | Python, audio processing, speech/voice model tooling |
+| **Scale** | Local desktop prototype |
+| **Performance** | GPU-aware local inference and reference-audio processing |
+| **Security** | Local media processing workflow |
+| **Impact** | Practical experience with audio preprocessing, voice similarity, and speech generation |
+| **Repository** | Private / local project |
+
+**What I worked on:** deeper reference analysis, voice similarity, Turkish speech output, local GPU compatibility, and simplifying the app into an easy workflow.
+
+</details>
+
+<details>
+<summary><b>Self-Learning Chess AI</b></summary>
+
+<br />
+
+A Python chess experiment that plays repeated games, stores its learned state, and can later be used as an opponent.
+
+| Area | Details |
+|---|---|
+| **Stack** | Python, persistent JSON state, chess logic |
+| **Scale** | Thousands of simulated games / local training loop |
+| **Performance** | Faster training modes and persistent state between sessions |
+| **Security** | Fully local execution |
+| **Impact** | Practical experiment in self-play, persistence, and iterative learning systems |
+| **Repository** | Private / local project |
+
+**What I worked on:** self-play loops, saved brain/state files, training speed modes, and using the trained system interactively.
 
 </details>
 
@@ -137,21 +196,22 @@ Browser-based 3D experiments focused on vehicle interaction, physics, networking
 
 ## Experience
 
-### Independent Software & AI Builder — Personal R&D
+### Independent Projects & AI Experiments
 **2026 — Present**
 
-Building and iterating on software, AI/ML, local inference, web product, and real-time 3D projects with a strong bias toward shipping working systems rather than isolated code samples.
+Personal project work across AI training, local inference, web applications, voice systems, and real-time 3D experiments.
 
-- Design end-to-end product flows across frontend, backend, model/runtime, and local tooling layers.
-- Prototype and benchmark local AI workflows under realistic consumer-hardware constraints.
-- Diagnose performance regressions, runtime failures, dependency issues, and integration bugs.
-- Build interfaces around technically complex systems so they are easier to operate and test.
-- Favor reproducible evaluation, maintainable project structure, and explicit engineering tradeoffs.
+- Built and retrained custom AI model experiments instead of only using hosted models.
+- Worked with local LLM inference and quantized model formats on consumer hardware.
+- Built AI-focused web application workflows and debugged model/provider integrations.
+- Built a browser-based 3D driving prototype with physics and multiplayer experiments.
+- Built voice-cloning and self-learning chess prototypes in Python.
+- Repeatedly profile, test, break, fix, and improve projects rather than stopping at the first demo.
 
-![Python](https://img.shields.io/badge/Python-Engineering-6D28D9?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Product-4F46E5?style=flat-square&logo=typescript&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-R%26D-7C3AED?style=flat-square&logo=openai&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance-Optimization-8B5CF6?style=flat-square&logo=speedtest&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Projects-6D28D9?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Web-4F46E5?style=flat-square&logo=javascript&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Training%20%26%20Tools-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![3D](https://img.shields.io/badge/3D-Three.js-8B5CF6?style=flat-square&logo=threedotjs&logoColor=white)
 
 ---
 
@@ -159,12 +219,13 @@ Building and iterating on software, AI/ML, local inference, web product, and rea
 
 <div align="center">
 
-| Recognition | Details |
+| Project Milestone | Details |
 |---|---|
-| **Independent AI R&D** | Built and evaluated local workflows across language, image, video, and voice systems |
-| **Cross-stack Engineering** | Worked across Python, TypeScript/JavaScript, .NET, browser 3D, backend services, and tooling |
-| **Performance-First Development** | Repeated focus on constrained-hardware optimization, latency, memory use, and quality preservation |
-| **Product-Minded Delivery** | Converts technical prototypes into interfaces, workflows, and repeatable user-facing systems |
+| **Custom AI Training** | Trained and iterated on a small Turkish-focused chat model experiment |
+| **Local LLM Work** | Tested and tuned local language-model workflows with constrained consumer hardware |
+| **Multimodal Projects** | Built image, video, and voice AI experiments rather than only text-based projects |
+| **Real-Time 3D** | Built a vehicle-based browser 3D prototype with physics and multiplayer experiments |
+| **Persistent Learning Experiment** | Built a chess AI prototype with self-play and saved training state |
 
 </div>
 
@@ -172,19 +233,11 @@ Building and iterating on software, AI/ML, local inference, web product, and rea
 
 ## Certifications
 
-> No third-party certification is claimed here unless a credential is publicly verified.
+<div align="center">
 
-### AWS
-![AWS](https://img.shields.io/badge/AWS-Credential%20not%20publicly%20listed-312E81?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Status](https://img.shields.io/badge/Public%20Certifications-None%20listed-312E81?style=for-the-badge&logo=readthedocs&logoColor=white)
 
-### Oracle
-![Oracle](https://img.shields.io/badge/Oracle-Credential%20not%20publicly%20listed-4338CA?style=flat-square&logo=oracle&logoColor=white)
-
-### NPTEL
-![NPTEL](https://img.shields.io/badge/NPTEL-Credential%20not%20publicly%20listed-5B21B6?style=flat-square)
-
-### Cisco
-![Cisco](https://img.shields.io/badge/Cisco-Credential%20not%20publicly%20listed-6D28D9?style=flat-square&logo=cisco&logoColor=white)
+</div>
 
 ---
 
@@ -192,10 +245,7 @@ Building and iterating on software, AI/ML, local inference, web product, and rea
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Coding%20Profile-312E81?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Coding%20Profile-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Coding%20Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Cry0x404-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cry0x404)
 
 </div>
 
@@ -205,22 +255,24 @@ Building and iterating on software, AI/ML, local inference, web product, and rea
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Cry0x404&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=Cry0x404&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cry0x404&theme=github_dark" alt="GitHub profile details" />
 
 <br />
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cry0x404&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10" alt="Top languages" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cry0x404&theme=github_dark" alt="GitHub stats" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cry0x404&theme=github_dark&utcOffset=3" alt="GitHub productive time" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+## GitHub Trophies & Highlights
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Cry0x404&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Followers](https://img.shields.io/github/followers/Cry0x404?style=for-the-badge&logo=github&color=6D28D9&label=FOLLOWERS)
+![Profile Stars](https://img.shields.io/github/stars/Cry0x404/Cry0x404?style=for-the-badge&logo=github&color=7C3AED&label=PROFILE+STARS)
+![Last Commit](https://img.shields.io/github/last-commit/Cry0x404/Cry0x404?style=for-the-badge&logo=git&color=4F46E5&label=LAST+PROFILE+UPDATE)
 
 </div>
 
@@ -230,7 +282,7 @@ Building and iterating on software, AI/ML, local inference, web product, and rea
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cry0x404&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cry0x404&theme=github_dark" alt="Contribution activity" />
 
 </div>
 
@@ -250,24 +302,27 @@ Building and iterating on software, AI/ML, local inference, web product, and rea
 
 ```yaml
 learning:
-  - advanced LLM training and evaluation
-  - multimodal AI systems
-  - systems and performance engineering
+  - AI model training and fine-tuning
+  - local LLM inference
+  - better evaluation and datasets
+  - performance optimization
 
 building:
-  - local-first AI tooling
-  - full-stack AI products
-  - real-time 3D experiments
+  - Cryox AI tools
+  - custom AI model experiments
+  - local multimodal workflows
+  - real-time 3D projects
 
 exploring:
-  - efficient inference on consumer GPUs
-  - robust model evaluation pipelines
-  - agentic developer workflows
+  - efficient models for consumer GPUs
+  - voice and video AI
+  - self-learning systems
+  - better developer workflows
 
 open_to:
-  - open-source collaboration
-  - ambitious engineering projects
-  - AI/ML and product engineering challenges
+  - open-source projects
+  - AI experiments
+  - interesting software collaborations
 ```
 
 ---
@@ -276,10 +331,9 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-turku__62%40hotmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turku_62@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-cinarguney735%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cinarguney735@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Cry0x404-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cry0x404)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-5B21B6?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Cry0x404?tab=repositories)
+[![Projects](https://img.shields.io/badge/Projects-GitHub-5B21B6?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Cry0x404?tab=repositories)
 
 </div>
 
@@ -287,7 +341,7 @@ open_to:
 
 <div align="center">
 
-**Build carefully. Measure what matters. Ship systems that hold up outside the demo.**
+**Build it. Test it. Break it. Fix it. Make the next version better.**
 
 </div>
 
