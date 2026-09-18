@@ -91,7 +91,7 @@ def svg_header(width, height):
         'text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}'
         '.title{font-size:22px;font-weight:700;fill:#f0f6fc}'
         '.label{font-size:13px;font-weight:600;fill:#8b949e}'
-        '.value{font-size:26px;font-weight:750;fill:#c4b5fd}'
+        '.value{font-size:26px;font-weight:750;fill:#4ade80}'
         '.small{font-size:12px;fill:#8b949e}'
         '</style>'
     )
@@ -115,7 +115,7 @@ def generate_stats(profile, repos, calendar):
 
     parts = [svg_header(width, height)]
     parts.append('<rect x="1" y="1" width="858" height="248" rx="16" fill="#0d1117" stroke="#30363d"/>')
-    parts.append('<rect x="1" y="1" width="858" height="5" rx="3" fill="#7c3aed"/>')
+    parts.append('<rect x="1" y="1" width="858" height="5" rx="3" fill="#166534"/>')
     parts.append(f'<text x="28" y="44" class="title">GitHub Analytics — {escape(USERNAME)}</text>')
     parts.append('<text x="28" y="67" class="small">Generated from GitHub API data by this repository</text>')
 
@@ -135,22 +135,22 @@ def intensity(count, max_count):
     if count <= 0:
         return "#161b22"
     if max_count <= 1:
-        return "#6d28d9"
+        return "#15803d"
     ratio = count / max_count
     if ratio <= 0.25:
-        return "#312e81"
+        return "#052e16"
     if ratio <= 0.5:
-        return "#4f46e5"
+        return "#14532d"
     if ratio <= 0.75:
-        return "#7c3aed"
-    return "#a78bfa"
+        return "#166534"
+    return "#4ade80"
 
 
 def generate_activity(calendar):
     width, height = 860, 245
     parts = [svg_header(width, height)]
     parts.append('<rect x="1" y="1" width="858" height="243" rx="16" fill="#0d1117" stroke="#30363d"/>')
-    parts.append('<rect x="1" y="1" width="858" height="5" rx="3" fill="#6366f1"/>')
+    parts.append('<rect x="1" y="1" width="858" height="5" rx="3" fill="#15803d"/>')
     parts.append('<text x="28" y="42" class="title">Contribution Activity</text>')
 
     if not calendar or not calendar.get("weeks"):
@@ -180,7 +180,7 @@ def generate_activity(calendar):
 
         legend_x = 690
         parts.append(f'<text x="{legend_x-42}" y="218" class="small">Less</text>')
-        legend_colors = ["#161b22", "#312e81", "#4f46e5", "#7c3aed", "#a78bfa"]
+        legend_colors = ["#161b22", "#052e16", "#14532d", "#166534", "#4ade80"]
         for i, color in enumerate(legend_colors):
             parts.append(f'<rect x="{legend_x + i*17}" y="207" width="11" height="11" rx="2" fill="{color}"/>')
         parts.append(f'<text x="{legend_x+92}" y="218" class="small">More</text>')
